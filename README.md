@@ -22,3 +22,5 @@ Tecnologias Utilizadas
 Como Usar
 Abrir o arquivo HTML: Abra o arquivo index.html em um navegador web.
 Interagir: Siga as instruções na tela para completar as fases do jogo.
+
+Desenvolvido com ❤️ por Renata Lima Ferreira
